@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f2fc130.css",
+    "main.js": "/static/js/main.b874a78b.js",
+    "static/media/night sky.jpg": "/static/media/night sky.3e8922afdf810bafc156.jpg",
+    "static/media/3.jpg": "/static/media/3.5844d92d1bd3ef4be532.jpg",
+    "static/media/1.jpg": "/static/media/1.859de96d60c03086bb3d.jpg",
+    "static/media/5.jpg": "/static/media/5.7dcd92b3f3edbd141450.jpg",
+    "static/media/2.jpg": "/static/media/2.ecf76a95eb97a0bd0b0e.jpg",
+    "static/media/monkey3.jpg": "/static/media/monkey3.1f525ba6e30f62df7e06.jpg",
+    "static/media/bac.jpg": "/static/media/bac.f70a6f00f953b859a4bb.jpg",
+    "static/media/monkey2.jpg": "/static/media/monkey2.786cca510782382996be.jpg",
+    "static/media/teddy1.jpg": "/static/media/teddy1.23253279a1ebe26fa536.jpg",
+    "static/media/monkey1.jpg": "/static/media/monkey1.35e7fe51b571256bbaf5.jpg",
+    "static/media/kutty.jpg": "/static/media/kutty.49a2f39e873c32f3fa35.jpg",
+    "static/media/4.jpg": "/static/media/4.60b3d4d5d5bbd29dba8a.jpg",
+    "index.html": "/index.html",
+    "main.4f2fc130.css.map": "/static/css/main.4f2fc130.css.map",
+    "main.b874a78b.js.map": "/static/js/main.b874a78b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f2fc130.css",
+    "static/js/main.b874a78b.js"
+  ]
+}
